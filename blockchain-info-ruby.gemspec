@@ -1,7 +1,7 @@
 # cat blockchain-info-ruby.gemspec
 Gem::Specification.new do |s|
   s.name        = 'blockchain-info-ruby'
-  s.version     = '1.2.1'
+  s.version     = '1.2.2'
   s.date        = '2015-01-06'
   s.summary     = "blockchain.info API"
   s.description = "This API allow you to interact with blockchain.info APIs"
